@@ -4,3 +4,4 @@ Luego ejecutar el archivo ejecutable "SIGA" tambien incrustado en la misma distr
 Una vez se abra la aplicación usted puede registrar estudiantes, asignarle un materia, una calificacin, y gestionar el estado de la materia 
 Una vez se guarde el registro se puede editar, eliminar, o buscar desde la interfaz de la aplicacion
 Cualquier interaccion con el registro se va afectar direcctamente en la base de datos. 
+Para inspeccionar el codigo debe abrir el archivo siga.py
